@@ -11,7 +11,7 @@ while div * div <= n:
 if n % div == 0:
 return False
 div = div + 1
- return True
+
   
 '''
 Returneaza produsul numerelor din lista lst.
